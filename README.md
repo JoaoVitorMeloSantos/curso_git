@@ -19,3 +19,7 @@ Se você estiver interessado em aprender Git e GitHub, recomendo o curso que est
 
 ## Contato
 Se você tiver alguma dúvida sobre este repositório ou sobre o curso que estou fazendo, sinta-se à vontade para entrar em contato comigo através do GitHub.
+
+```bash
+git init
+```
